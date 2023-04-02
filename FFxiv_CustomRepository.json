@@ -2,7 +2,7 @@
   {
        "Author":"FPC-PM",
        "Name":"Angel Wings",
-       "☆Description":"☆Nameplate Resize targetmarker ※Disabled in PvP",
+       "☆Description":"Nameplate Resize targetmarker   Disabled in PvP",
        "InternalName":"NameplateSignResizer",
        "AssemblyVersion":"V2",
        "RepoUrl":"https://github.com/AngelSeed/NameplateSignResizer",
