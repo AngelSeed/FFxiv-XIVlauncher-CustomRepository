@@ -1,5 +1,30 @@
 [
   {
+       "Author":"FPC-PM",
+       "Name":"Angel Wings",
+       "☆Description":"☆Nameplate Resize targetmarker ※Disabled in PvP",
+       "InternalName":"NameplateSignResizer",
+       "AssemblyVersion":"V2",
+       "RepoUrl":"https://github.com/AngelSeed/NameplateSignResizer",
+       "IconUrl":"https://raw.githubusercontent.com/McSwindler/DalamudPlugins/main/icons/sneakonby.png",
+       "ApplicableVersion":"any",
+       "Tags":[
+              "Nameplate"
+              "Sign"
+              "target"
+              "marker"
+        ],
+       "DalamudApiLevel":8,
+       "LoadPriority":-1,
+       "IsHide":"False",
+       "IsTestingExclusive":"False",
+       "LastUpdated":0,
+       "DownloadCount":0,
+       "DownloadLinkInstall":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip ",
+       "DownloadLinkTesting":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip ",
+       "DownloadLinkUpdate":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip "
+  },
+  {
       "Author": "Usagi",
       "Name": "IINACT",
       "InternalName": "IINACT",
