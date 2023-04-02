@@ -1,5 +1,23 @@
 [
   {
+       "Author":"FPC-PM",
+       "Name":"Angel Wings",
+       "Description":"Nameplate Resize targetmarker   Disabled in PvP",
+       "InternalName":"NameplateSignResizer",
+       "AssemblyVersion":"V2",
+       "RepoUrl":"https://github.com/AngelSeed/NameplateSignResizer",
+       "IconUrl":"",
+       "ApplicableVersion":"any",
+       "DalamudApiLevel":8,
+       "LoadPriority":-1,
+       "IsHide":"False",
+       "IsTestingExclusive":"False",
+       "LastUpdated":0,
+       "DownloadCount":0,
+       "DownloadLinkTesting":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip ",
+       "DownloadLinkUpdate":"https://github.com/AngelSeed/NameplateSignResizer/releases/download/V2/NameplateSignResizer.zip "
+  },
+  {
         "Author": "Jukka",
         "Name": "NecroLens",
         "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
