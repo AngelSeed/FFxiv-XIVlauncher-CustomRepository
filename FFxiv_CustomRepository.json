@@ -21,7 +21,8 @@
         "DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.1.3.0/IINACT.zip",
         "DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.1.3.0/IINACT.zip",
         "DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.1.3.0/IINACT.zip"
-    } {
+    },
+    {
         "Author": "NightmareXIV",
         "Name": "DSR Toolbox",
         "Punchline": "A helper plugin for Dragonsong's Reprise (Ultimate).",
