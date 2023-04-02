@@ -493,7 +493,8 @@
         "DownloadLinkUpdate": "https://github.com/NightmareXIV/Instancinator/releases/latest/download/Instancinator.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
-    }    {
+    },
+    {
         "Author": "UnknownX",
         "Name": "Cammy",
         "Punchline": "A simple editor for the game's camera settings",
@@ -1566,10 +1567,11 @@
   "LoadPriority": 0,
   "Punchline": "Take control of your shadows!",
   "AcceptsFeedback": true
-, "DownloadLinkInstall": "https://repo.modloader64.com/ffxiv/stable/BetterShadows_Release.zip",
+  "DownloadLinkInstall": "https://repo.modloader64.com/ffxiv/stable/BetterShadows_Release.zip",
   "DownloadLinkTesting": "https://repo.modloader64.com/ffxiv/testing/BetterShadows_Testing.zip",
   "DownloadLinkUpdate": "https://repo.modloader64.com/ffxiv/stable/BetterShadows_Release.zip"
-},{
+},
+{
   "Author": "Drahsid",
   "Name": "Hybrid Camera",
   "InternalName": "HybridCamera",
@@ -1583,7 +1585,8 @@
   "LoadPriority": 0,
   "Punchline": "Legacy and standard movement in one! Move freely!",
   "AcceptsFeedback": true
-},{
+},
+{
   "Author": "Drahsid",
   "Name": "Resizable HUD",
   "InternalName": "ResizableHUD",
@@ -1597,10 +1600,11 @@
   "LoadPriority": 0,
   "Punchline": "Move and scale vanilla hud elements to your liking!",
   "AcceptsFeedback": true
-, "DownloadLinkInstall": "https://repo.modloader64.com/ffxiv/stable/ResizableHUD_Release.zip",
+  "DownloadLinkInstall": "https://repo.modloader64.com/ffxiv/stable/ResizableHUD_Release.zip",
   "DownloadLinkTesting": "https://repo.modloader64.com/ffxiv/testing/ResizableHUD_Testing.zip",
   "DownloadLinkUpdate": "https://repo.modloader64.com/ffxiv/stable/ResizableHUD_Release.zip"
-},{
+},
+{
   "Author": "Drahsid",
   "Name": "Target Lines",
   "InternalName": "TargetLines",
@@ -1614,7 +1618,7 @@
   "LoadPriority": 0,
   "Punchline": "Customizable target lines",
   "AcceptsFeedback": true
-, "DownloadLinkInstall": "https://repo.modloader64.com/ffxiv/stable/TargetLines_Release.zip",
+  "DownloadLinkInstall": "https://repo.modloader64.com/ffxiv/stable/TargetLines_Release.zip",
   "DownloadLinkTesting": "https://repo.modloader64.com/ffxiv/testing/TargetLines_Testing.zip",
   "DownloadLinkUpdate": "https://repo.modloader64.com/ffxiv/stable/TargetLines_Release.zip"
 },
@@ -1778,7 +1782,6 @@
         "DownloadLinkTesting":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip"
     },
-[
   {
     "Author": "Karlin",
     "Name": "PvPSelector",
