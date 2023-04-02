@@ -8,12 +8,6 @@
        "RepoUrl":"https://github.com/AngelSeed/NameplateSignResizer",
        "IconUrl":"",
        "ApplicableVersion":"any",
-       "Tags":[
-              "Nameplate"
-              "Sign"
-              "target"
-              "marker"
-        ],
        "DalamudApiLevel":8,
        "LoadPriority":-1,
        "IsHide":"False",
