@@ -6,7 +6,7 @@
        "InternalName":"NameplateSignResizer",
        "AssemblyVersion":"V2",
        "RepoUrl":"https://github.com/AngelSeed/NameplateSignResizer",
-       "IconUrl":"https://raw.githubusercontent.com/McSwindler/DalamudPlugins/main/icons/sneakonby.png",
+       "IconUrl":"",
        "ApplicableVersion":"any",
        "Tags":[
               "Nameplate"
